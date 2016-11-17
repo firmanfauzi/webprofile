@@ -1,0 +1,97 @@
+body{
+	background-color: #D2D7D3;
+}
+
+.menu {
+	background-color: #ECF0F1;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	border-radius: 10px;
+	height: auto;
+	width: auto;
+	/*position: fixed;*/
+}
+
+.menu ul li {
+	text-align: center;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	font-size: 15px;
+	font-family: century gothic;
+	padding: 5px;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #CF000F;
+	padding: 5px;
+}
+
+.menu ul li a:hover {
+	border-left: 1px solid #CF000F;
+	border-right: 1px solid #CF000F;
+	border-radius: 0px;
+/*	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);*/
+}
+
+.menu ul li a:active{
+	border-bottom: 1px dashed #CF000F;
+	border-radius: 0px;
+}
+
+#home{
+	/*background-color: yellow;*/
+	height: 620px;
+	width: auto;
+	padding: 20px;
+	border: 5px solid #CF000F;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 5px;
+
+}
+
+#bismillah {
+	text-align: center;
+	padding-top: 1px;
+}
+
+#bismillah img{
+	width: 50%;
+	height:100px;
+}
+
+.kalimatpembuka2{
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 80px;
+	text-align: justify;
+	word-spacing: 5px;
+	height: auto;
+	padding-top: 5px;
+}
+
+#isikalimatpembuka2{
+	font-size: 34.5px;
+	font-family: comic sans ms;
+	margin: 20px;
+}
+
+#education{
+	height: 620px;
+	width: auto;
+	padding: 20px;
+	border: 5px solid #CF000F;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 5px;
+}
+
